@@ -34,7 +34,6 @@ namespace DeathrestButton
                         job.forceSleep = true;
                         __instance.jobs.TryTakeOrderedJob(job, JobTag.Misc);
                         return;
-
                     }
 
                     if (__instance.ownership.OwnedBed != null)
