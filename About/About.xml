@@ -6,6 +6,7 @@
   <packageId>nikidigi.DeathrestButton</packageId>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <description>A QoL mod that adds Start Deathrest button to the command bar. Basically, this button is a shortcut to the vanilla popup menu option, but you no longer have to scroll through the map to find the pawn's casket (or bed) to send them to deathrest.</description>
   <modDependencies>
